@@ -8,7 +8,7 @@ h1{
     color: black;
 }
 
-.pokemon{
+div .pokemon{
     width: 100px;
     height: auto;
 }
